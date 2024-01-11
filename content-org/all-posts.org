@@ -1,5 +1,7 @@
 #+hugo_base_dir: ../
+#+STARTUP: logdone
 * DONE My First Post                                        :tag1:@category1:
+CLOSED: [2024-01-10 Wed 21:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-first-post
 :END:
