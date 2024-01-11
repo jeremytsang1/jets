@@ -6,4 +6,3 @@ title = 'My New Hugo Site'
   [[module.imports]]
     path = "github.com/leafee98/hugo-theme-flat"
 
-theme = "tailwind-nord-theme"
