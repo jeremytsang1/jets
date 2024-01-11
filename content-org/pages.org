@@ -1,12 +1,16 @@
 #+hugo_base_dir: ../
 #+STARTUP: logdone
 * Posts
-** DONE My First Post                                      :tag1:@category1:
-CLOSED: [2024-01-10 Wed 21:31]
+** DONE My First Post
+CLOSED: [2024-01-11 Thu 03:57]
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-first-post
 :END:
-This is my post body.
+Hello World. My name is Jeremy Tsang.
+** TODO OSU CS 467: Blog Post Week #01                            :@CS__467:
+:PROPERTIES:
+:EXPORT_FILE_NAME: cs-467-post-week-1
+:END:
 * DONE About
 CLOSED: [2024-01-11 Thu 02:17]
 :PROPERTIES:
