@@ -1,3 +1,11 @@
 #+OPTIONS: toc:nil num:nil ^:nil tags:nil tasks:t todo:nil
-#+TITLE: JeTs
+#+TITLE: Personal Site
 #+AUTHOR: Jeremy Tsang
+* Description
+Access via https://jeremytsang1.github.io/personal-site/.
+* Acknowledgments
+- [[https://gohugo.io/][Hugo]]
+- [[https://ox-hugo.scripter.co/][ox-hugo]]
+- [[https://github.com/leafee98/hugo-theme-flat][hugo-flat-theme]]
+- [[https://pages.github.com/][GitHub Pages]]
+- [[https://www.nordtheme.com/][Nord Theme]]
