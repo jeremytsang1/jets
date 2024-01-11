@@ -1,5 +1,9 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
-# in config.toml
-theme = "hugo-tailwind-nord-theme"
+
+[module]
+  [[module.imports]]
+    path = "github.com/leafee98/hugo-theme-flat"
+
+theme = "tailwind-nord-theme"
