@@ -7,4 +7,4 @@ categories = ["category1"]
 draft = false
 +++
 
-This is my post body.
+This is my post body

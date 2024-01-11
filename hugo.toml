@@ -60,7 +60,7 @@ name = "Posts"
 url = "/posts/"
 weight = 30
 
-[[menus.main]]
-pageref = "about"
-name = "About"
-weight = 80
+# [[menus.main]]
+# pageref = "about"
+# name = "About"
+# weight = 80

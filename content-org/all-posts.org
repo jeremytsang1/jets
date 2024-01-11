@@ -1,8 +1,29 @@
 #+hugo_base_dir: ../
 #+STARTUP: logdone
-* DONE My First Post                                        :tag1:@category1:
+* Posts
+** DONE My First Post                                      :tag1:@category1:
 CLOSED: [2024-01-10 Wed 21:31]
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-first-post
 :END:
 This is my post body.
+* DONE About
+CLOSED: [2024-01-11 Thu 02:17]
+:PROPERTIES:
+:EXPORT_FILE_NAME: about
+:EXPORT_HUGO_SECTION: /
+:END:
+Hello, my name is JeTs. Sometimes I go by Jeremy Tsang.
+** Interests
+- Computer Science
+- Math
+- GNU Emacs (Since 2012)
+- Weightlifting (Since 2023)
+- Powerlifting (Since 2012)
+- Piano (Since 1996)
+** Educational Background
+- B.S. in Chemistry (2011)
+- B.A. in Pure Mathematics (2011)
+- B.S. in Computer Science (W.I.P.)
+* Spelling
+LocalWords: LocalWords
