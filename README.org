@@ -1,0 +1,3 @@
+#+OPTIONS: toc:nil num:nil ^:nil tags:nil tasks:t todo:nil
+#+TITLE: JeTs
+#+AUTHOR: Jeremy Tsang
