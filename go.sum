@@ -1,4 +1,2 @@
-github.com/adityatelange/hugo-PaperMod v0.0.0-20240107104123-71ce72b1bfb8 h1:byqcpj7xzQexXLLP8OSBQDtcS1jzMw2EeFEfvKPoM/U=
-github.com/adityatelange/hugo-PaperMod v0.0.0-20240107104123-71ce72b1bfb8/go.mod h1:HCHxNMKYdGafUYjVV3ICiAqznZK2yH0iI53jqcDFDdQ=
-github.com/leafee98/hugo-theme-flat v0.0.0-20230911064802-9aebccb59046 h1:ne1mgnEirQ6HHTaa5Y0VJUrvv8mqrVuMIHzmWaQPAr4=
-github.com/leafee98/hugo-theme-flat v0.0.0-20230911064802-9aebccb59046/go.mod h1:Oz7GRO6rOgv2JLFcCBQ8GPH61gsiutHuIY5qaZUXv4w=
+github.com/jeremytsang1/hugo-theme-flat v0.0.0-20240111091620-2909a38a8db0 h1:xiVOkFeZliht3uCAVEbE9YOFuLr2ShAyxsxye5RGVI0=
+github.com/jeremytsang1/hugo-theme-flat v0.0.0-20240111091620-2909a38a8db0/go.mod h1:5hjzYCr3GcPjdCiVE3xvyaXhPqxLAVtYSZTzDvtnZYs=
