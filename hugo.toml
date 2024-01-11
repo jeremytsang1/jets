@@ -43,13 +43,13 @@ mainSections = ['posts']
 [[params.footer_rows.items]]
 name = "Creative Commons Attribution 4.0 International"
 url = "https://creativecommons.org/licenses/by/4.0/"
-pre = "Copyright <a href=\"https://creativecommons.org/licenses/by/4.0/\">CC BY-4.0</a>"
+pre = "Copyright © 2024 Jeremy Tsang"
 
 [[params.footer_rows]]
 [[params.footer_rows.items]]
 name = "Hugo"
 url = "https://gohugo.io"
-pre = "Powered by <a href=\"https://gohugo.io\">Hugo</a>"
+pre = "Powered by <a href=\"https://gohugo.io\">Hugo</a> and <a href=\"https://ox-hugo.scripter.co/\">ox-hugo</a>."
 [[params.footer_rows.items]]
 name = "theme flat"
 url = "https://github.com/jeremytsang1/hugo-theme-flat"
