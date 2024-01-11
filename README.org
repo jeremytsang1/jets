@@ -1,8 +1,8 @@
 #+OPTIONS: toc:nil num:nil ^:nil tags:nil tasks:t todo:nil
-#+TITLE: Personal Site
+#+TITLE: JeTs
 #+AUTHOR: Jeremy Tsang
 * Description
-Access via https://jeremytsang1.github.io/personal-site/.
+My personal website. Access via [[https://jeremytsang1.github.io/jets]].
 * Acknowledgments
 - [[https://gohugo.io/][Hugo]]
 - [[https://ox-hugo.scripter.co/][ox-hugo]]
