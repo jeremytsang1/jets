@@ -2,8 +2,7 @@ title = "JeTs"
 enableRobotsTXT = true
 hasCJKLanguage = true
 paginate = 4
-# For deployment on OSU flip. If using GitHub Pages, can leave this empty.
-baseURL = "https://web.engr.oregonstate.edu/~tsangj/"
+# baseURL = ""
 
 [module]
   [[module.imports]]
