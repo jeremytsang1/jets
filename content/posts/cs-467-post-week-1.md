@@ -51,6 +51,6 @@ easy to get carried away [yak shaving](https://en.wiktionary.org/wiki/yak_shavin
 Other than tinkering with Emacs, I like to spend time my free time
 weightlifting. I previously competed powerlifting but started [weightlifting](https://en.wikipedia.org/wiki/Olympic_weightlifting)
 because I always thought snatching and clean and jerking looked neat. Other
-hobbies I used to indulge in include playing/transcribing piano music, PC
+hobbies I used to indulge in include playing/engraving piano music, PC
 gaming, and reading. Time always seems too short these days to get to
 everything though!
