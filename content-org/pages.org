@@ -58,7 +58,7 @@ non-fiction). Time always seems too short these days to get to everything
 though!
 
 
-** DONE OSU CS 467: Blog Post # 2                                 :@CS__467:
+** DONE OSU CS 467: Blog Post # 2     :@CS__467:Flutter:Mobile__Development:
 CLOSED: [2024-02-07 Wed 21:29]
 :PROPERTIES:
 :EXPORT_FILE_NAME: cs-467-post-week-2
