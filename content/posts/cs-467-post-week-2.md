@@ -1,8 +1,9 @@
 +++
 title = "OSU CS 467: Blog Post # 2"
 author = ["Jeremy Tsang"]
+date = 2024-02-07T21:29:00-08:00
 categories = ["CS 467"]
-draft = true
+draft = false
 +++
 
 ## Overview {#overview}
@@ -30,7 +31,7 @@ on a Flutter app, said developer probably is not familiar with Dart. This leads
 to the inevitable challenge that is simultaneously learning a new language and
 as well as a framework which can be a tall order. Our team,of course, had to
 take some time to work through this during our first week of
-development. Despite both my team members having no prior experience with Dart
+development. Despite both my team members having no prior experience with Dart,
 they were both able to get up to speed due to its similarities with other
 languages. Flutter, on the other hand has been, a bit more challenging in that
 layouts are a bit different than what one is used to when developing for web.

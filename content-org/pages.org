@@ -58,7 +58,8 @@ non-fiction). Time always seems too short these days to get to everything
 though!
 
 
-** TODO OSU CS 467: Blog Post # 2                                 :@CS__467:
+** DONE OSU CS 467: Blog Post # 2                                 :@CS__467:
+CLOSED: [2024-02-07 Wed 21:29]
 :PROPERTIES:
 :EXPORT_FILE_NAME: cs-467-post-week-2
 :END:
@@ -83,7 +84,7 @@ on a Flutter app, said developer probably is not familiar with Dart. This leads
 to the inevitable challenge that is simultaneously learning a new language and
 as well as a framework which can be a tall order. Our team,of course, had to
 take some time to work through this during our first week of
-development. Despite both my team members having no prior experience with Dart
+development. Despite both my team members having no prior experience with Dart,
 they were both able to get up to speed due to its similarities with other
 languages. Flutter, on the other hand has been, a bit more challenging in that
 layouts are a bit different than what one is used to when developing for web.
