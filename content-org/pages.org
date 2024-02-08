@@ -1,7 +1,7 @@
 #+hugo_base_dir: ../
 #+STARTUP: logdone
 * Posts
-** DONE OSU CS 467: Blog Post Week 1                              :@CS__467:
+** DONE OSU CS 467: Blog Post #1                                  :@CS__467:
 CLOSED: [2024-01-11 Thu 17:54]
 :PROPERTIES:
 :EXPORT_FILE_NAME: cs-467-post-week-1
@@ -56,6 +56,12 @@ playing/engraving piano music, playing old PC games (Dark Souls 2 and Heroes of
 Might and Magic 3 are two favorites), and reading (mostly fantasy but sometimes
 non-fiction). Time always seems too short these days to get to everything
 though!
+
+** OSU CS 467: Blog Post # 2                                      :@CS__467:
+:PROPERTIES:
+:EXPORT_FILE_NAME: cs-467-post-week-2
+:END:
+Hello world!
 
 * DONE About
 CLOSED: [2024-01-11 Thu 02:17]
