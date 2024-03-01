@@ -1,0 +1,26 @@
++++
+title = "OSU CS 467: Blog Post # 3"
+author = ["Jeremy Tsang"]
+date = 2024-02-29T16:54:00-08:00
+categories = ["CS 467"]
+draft = false
++++
+
+With less than two weeks remaining in the course I would like to the time to reflect on what I consider to be my greatest success in this course: overcoming impostor syndrome.
+
+
+## Context {#context}
+
+To give a little background to why this subject is so important to me, I must embarrassingly admit that this is my fourth attempt taking this CS 467 course. Before my first time taking this course, I would like to think was doing well in the OSU program (had a 4.0 GPA, got a perfect score in CS 344, was doing plenty of LeetCode on the side). In fact my TA for CS 344 liked my work so much that he asked me if I wanted to join him in taking this capstone course with him back in Spring 2021. I thought it would be a great opportunity to get the capstone done early even though I had other electives remaining. This way I could use it as a talking point in interviews to get an internship while I was finishing up my remaining electives. Unfortunately when the time came to work on the project I panicked because I felt totally out of my depth. Both my partners seemed to either (1) know the tech stack or (2) currently work in the industry and were able to come up with decent architecture ideas. I, on the other hand, felt completely out of my depth jumping into a project that I had not even the slightest idea of where to start. To keep it brief, I withdrew from the course around week 3 before the actual work even began. This happened two more times (Fall 2022 and Winter 2023) each time also withdrawing before coding even started. The dread of not believing I was up to the task was so strong that it made me give up on software as a career path. Around mid 2023, I ended up trying to work in retail in order to obtain insurance to talk to a mental health professional about this.
+
+
+## Capstone Winter 2024 {#capstone-winter-2024}
+
+Despite my previous withdrawals but with the help of therapy, I decided I must try to take this course one last time for the sake of dispelling the cloud over my head. At the start of the course I was nervous and anxious as in the previous three attempts. This only increased when I found out both my teammates this quarter had experience working in either tech or tech-adjacent fields. However, what I did differently than previous times was to convince myself that I am only human, I am here to learn, and learning requires failure to make progress. So what if other's may be more knowledgeable on architecture, UI prototyping, database design, or anything else for that matter? Instead of panicking, it would be a better use of my time to research the topics I am deficient in to try to get up to speed on them. With this new approach I was finally able to break through that notorious 3-week mark and finally made it to the phase of the course where work actually started. Being able to surpass my previous 3-week barrier was extremely cathartic and I was able to begin work on the project with new found vigor. Once I became acquainted with my teammates, it became evident that they are not all knowing experts in the field but students just like myself. It seems silly and obvious in retrospect but anxiety has a way of taking all logic and throwing it out the window.
+
+As the course progressed I realize that I am able to keep up with my teammates and contribute to the project in a meaningful way. I started enjoying working together with them and discussing the aspects of our project in our meetings and asynchronously throughout the week. It was incredibly helpful to be able to discuss the benefits/drawbacks of certain approaches to problems. Further being held accountable for my work was also a great motivator in making sure that it gets done properly and in a timely fashion. Not only was I able to finally address my impostor syndrome, but I was finally getting some meaningful experience collaborating on a huge project with other people. That is not to say that I am completely free of anxiety during the rest of the course. I still get nervous when talking with sponsors in front of the group but at least it is not to the point where it grinds my entire progress to a dead stop. More importantly I am able to get back to work and use the parts where I fumbled as places to improve.
+
+
+## Going Forwards {#going-forwards}
+
+With this new victory I can clearly see that not always knowing the answer is not the end of the world. Although I am pretty rusty at coding in general, I am considering trying to resuscitate my dreams of working in software with this new found knowledge of myself. There will undoubtedly be road bumps (rough job market, tough interviews, the slog of job searching, reviewing SWE/Architecture/algorithm concepts) but I can genuinely say that the success that I found in this capstone project can rekindle my love for the field. Working with other is not as scary as I made it out to be nor is being thrown into a project without prior knowledge of the domain. In fact once the work gets started it is downright exciting! I would like to thank my teammates, the teaching staff, and project sponsors this quarter for allowing me the opportunity to overcome this fear.
