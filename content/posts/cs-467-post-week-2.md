@@ -1,5 +1,5 @@
 +++
-title = "OSU CS 467: Blog Post # 2"
+title = "OSU CS 467: Blog Post #2"
 author = ["Jeremy Tsang"]
 date = 2024-02-07T21:29:00-08:00
 tags = ["Flutter", "Mobile Development"]

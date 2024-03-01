@@ -1,5 +1,5 @@
 +++
-title = "OSU CS 467: Blog Post # 3"
+title = "OSU CS 467: Blog Post #3"
 author = ["Jeremy Tsang"]
 date = 2024-02-29T16:54:00-08:00
 categories = ["CS 467"]
