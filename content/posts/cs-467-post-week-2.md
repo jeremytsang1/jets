@@ -2,8 +2,8 @@
 title = "OSU CS 467: Blog Post #2"
 author = ["Jeremy Tsang"]
 date = 2024-02-07T21:29:00-08:00
-tags = ["Flutter", "Mobile Development"]
-categories = ["CS 467"]
+tags = ["Flutter"]
+categories = ["Mobile Development"]
 draft = false
 +++
 
