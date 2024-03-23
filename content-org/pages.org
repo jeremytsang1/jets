@@ -133,6 +133,9 @@ quick as well. This app does not need a large number of esoteric features so I
 think the more mature ecosystem of a framework like React Native is
 unwarranted. I'm happy with Flutter and Dart so far.
 * Projects
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: projects
+:END:
 ** DONE Minesweeper                                                   :Game:
 CLOSED: [2024-03-22 Fri 17:51]
 :PROPERTIES:
