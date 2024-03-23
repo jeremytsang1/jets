@@ -1,11 +1,10 @@
 +++
 title = "About"
 author = ["Jeremy Tsang"]
-date = 2024-01-11T02:17:00-08:00
-draft = false
+draft = true
 +++
 
-Hello, my name is JeTs. Sometimes I go by Jeremy Tsang.
+Hello, my name is Jeremy Tsang.
 
 
 ## Interests {#interests}
