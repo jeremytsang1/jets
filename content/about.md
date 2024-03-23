@@ -1,7 +1,8 @@
 +++
 title = "About"
 author = ["Jeremy Tsang"]
-draft = true
+date = 2024-03-22T18:25:00-07:00
+draft = false
 +++
 
 Hello, my name is Jeremy Tsang.
