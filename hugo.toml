@@ -60,6 +60,11 @@ name = "Posts"
 url = "/posts/"
 weight = 30
 
+[[menus.main]]
+name = "Projects"
+url = "/projects/"
+weight = 30
+
 # [[menus.main]]
 # pageref = "about"
 # name = "About"
