@@ -2,7 +2,8 @@
 title = "Forest Wellness Checkup App"
 author = ["Jeremy Tsang"]
 date = 2024-03-22T17:56:00-07:00
-tags = ["Flutter", "Mobile Development"]
+tags = ["Flutter"]
+categories = ["Mobile Development"]
 draft = false
 +++
 

@@ -2,7 +2,6 @@
 title = "OSU CS 467: Blog Post #1"
 author = ["Jeremy Tsang"]
 date = 2024-01-11T17:54:00-08:00
-categories = ["CS 467"]
 draft = false
 +++
 

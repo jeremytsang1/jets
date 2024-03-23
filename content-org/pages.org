@@ -1,7 +1,7 @@
 #+hugo_base_dir: ../
 #+STARTUP: logdone
 * Posts
-** DONE OSU CS 467: Blog Post #1                                  :@CS__467:
+** DONE OSU CS 467: Blog Post #1
 CLOSED: [2024-01-11 Thu 17:54]
 :PROPERTIES:
 :EXPORT_FILE_NAME: cs-467-post-week-1
@@ -57,7 +57,9 @@ Might and Magic 3 are two favorites), and reading (mostly fantasy but sometimes
 non-fiction). Time always seems too short these days to get to everything
 though!
 
-** DONE OSU CS 467: Blog Post #2      :@CS__467:Flutter:Mobile__Development:
+** DONE OSU CS 467: Blog Post #2               :Flutter:@Mobile__Development:
+
+**
 CLOSED: [2024-02-07 Wed 21:29]
 :PROPERTIES:
 :EXPORT_FILE_NAME: cs-467-post-week-2
@@ -142,13 +144,13 @@ CLOSED: [2024-03-22 Fri 17:51]
 :EXPORT_FILE_NAME: minesweeper
 :END:
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit.  Donec hendrerit tempor tellus.  Donec pretium posuere tellus.  Proin quam nisl, tincidunt et, mattis eget, convallis nec, purus.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.  Nulla posuere.  Donec vitae dolor.  Nullam tristique diam non turpis.  Cras placerat accumsan nulla.  Nullam rutrum.  Nam vestibulum accumsan nisl.
-** DONE Forest Wellness Checkup App            :Flutter:Mobile__Development:
+** DONE Forest Wellness Checkup App           :Flutter:@Mobile__Development:
 CLOSED: [2024-03-22 Fri 17:56]
 :PROPERTIES:
 :EXPORT_FILE_NAME: forest-wellness-checkup-app
 :END:
 Aliquam erat volutpat.  Nunc eleifend leo vitae magna.  In id erat non orci commodo lobortis.  Proin neque massa, cursus ut, gravida ut, lobortis eget, lacus.  Sed diam.  Praesent fermentum tempor tellus.  Nullam tempus.  Mauris ac felis vel velit tristique imperdiet.  Donec at pede.  Etiam vel neque nec dui dignissim bibendum.  Vivamus id enim.  Phasellus neque orci, porta a, aliquet quis, semper a, massa.  Phasellus purus.  Pellentesque tristique imperdiet tortor.  Nam euismod tellus id erat.
-** DONE Time Tools                :Mobile__Development:Android:Google__Play:
+** DONE Time Tools               :@Mobile__Development:Android:Google__Play:
 CLOSED: [2024-03-22 Fri 17:56]
 :PROPERTIES:
 :EXPORT_FILE_NAME: time-tools

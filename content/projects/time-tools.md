@@ -2,7 +2,8 @@
 title = "Time Tools"
 author = ["Jeremy Tsang"]
 date = 2024-03-22T17:56:00-07:00
-tags = ["Mobile Development", "Android", "Google Play"]
+tags = ["Android", "Google Play"]
+categories = ["Mobile Development"]
 draft = false
 +++
 
