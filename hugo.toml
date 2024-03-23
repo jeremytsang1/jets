@@ -24,7 +24,7 @@ style = 'monokailight'
 tabWidth = 4
 
 [params]
-mainSections = ['posts']
+mainSections = ['posts', 'projects']
 
 ## uncomment belows and set proper values to enable remark42
 # [params.remark42]
