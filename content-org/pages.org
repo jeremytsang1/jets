@@ -161,16 +161,16 @@ CLOSED: [2024-03-22 Fri 18:25]
 :EXPORT_HUGO_SECTION: /
 :END:
 Hello, my name is Jeremy Tsang.
-** Interests
-- Computer Science
-- Math
-- GNU Emacs (Since 2012)
-- Weightlifting (Since 2023)
-- Powerlifting (Since 2012)
-- Piano (Since 1996)
+# ** Interests
+# - Computer Science
+# - Math
+# - GNU Emacs (Since 2012)
+# - Weightlifting (Since 2023)
+# - Powerlifting (Since 2012)
+# - Piano (Since 1996)
 ** Educational Background
-- B.S. in Chemistry (2011)
+- B.S. in Computer Science (WIP)
 - B.A. in Pure Mathematics (2011)
-- B.S. in Computer Science (W.I.P.)
+- B.S. in Chemistry (2011)
 * Spelling
-LocalWords: LocalWords
+LocalWords: LocalWords  WIP
