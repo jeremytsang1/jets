@@ -2,4 +2,4 @@ title = "JeTs"
 enableRobotsTXT = true
 hasCJKLanguage = true
 paginate = 4
-# baseURL = ""
+# baseURL = ""  # Can leave this empty if hosting from GitHub Pages.
