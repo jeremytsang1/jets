@@ -1,4 +1,7 @@
 title = "JeTs"
+# Don' enforce any title capitalization since title is a play on the first two
+# letters of first and last name.
+titleCaseStyle = "none"
 enableRobotsTXT = true
 hasCJKLanguage = true
 paginate = 4
