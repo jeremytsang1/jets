@@ -1,0 +1,5 @@
+title = "JeTs"
+enableRobotsTXT = true
+hasCJKLanguage = true
+paginate = 4
+# baseURL = ""

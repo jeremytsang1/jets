@@ -1,0 +1,14 @@
+[[main]]
+name = "Posts"
+url = "/posts/"
+weight = 30
+
+[[main]]
+name = "Projects"
+url = "/projects/"
+weight = 30
+
+[[main]]
+pageref = "About"
+name = "About"
+weight = 80
