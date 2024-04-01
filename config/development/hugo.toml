@@ -1,0 +1,11 @@
+# Themes ######################################################################
+# In order to easily make changes to
+# git@github.com:jeremytsang1/hugo-theme-flat.git without pushing to its main
+# branch. See
+# https://discourse.gohugo.io/t/best-practices-for-theme-development-hugo-modules/30568/3
+
+# Assumes `hugo-themes/` directory is in same directory as this repo.
+themesDir = '../hugo-themes/'
+
+# Assumes hugo-themes-flat is cloned to `themesDir`.
+theme = 'hugo-theme-flat'

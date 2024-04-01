@@ -5,6 +5,26 @@
 My personal website using Org-mode for convenience. Access the site via [[https://jeremytsang1.github.io/jets]]. 
 
 The site is built using Hugo in tandem with the [[https://ox-hugo.scripter.co/][ox-hugo]] Emacs package. It is styled with my Nord Themed [[https://github.com/jeremytsang1/hugo-theme-flat/][fork]] of [[https://github.com/leafee98][leafee98]]'s [[https://github.com/leafee98/hugo-theme-flat][hugo-theme-flat]] Hugo Theme.
+* Usage
+** Development                                             :env_development:
+- Clone this repo
+  #+begin_src shell
+git clone git@github.com:jeremytsang1/jets.git
+  #+end_src
+
+- Without changing directories clone the theme into a theme directory.
+  #+begin_src shell
+git clone git@github.com:jeremytsang1/hugo-theme-flat.git hugo-themes/hugo-theme-flat
+  #+end_src
+  - This is needed to run the development environment in order to make changes to the theme and immediately view them without having to push theme changes to the main branch of =git@github.com:jeremytsang1/hugo-theme-flat.git=.
+
+- Run the site in the development environment
+  #+begin_src shell
+cd jets
+hugo -e 'development' server
+  #+end_src
+** Production
+- In production, the theme will be directly imported from the most recent version on GitHub.
 * Acknowledgments
 - [[https://gohugo.io/][Hugo]]
 - [[https://ox-hugo.scripter.co/][ox-hugo]]
