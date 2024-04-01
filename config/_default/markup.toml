@@ -1,5 +1,5 @@
 # these values are hugo built in markup config
-[markup.highlight]
+[highlight]
 anchorLineNos = false
 codeFences = true
 guessSyntax = false
