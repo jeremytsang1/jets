@@ -10,5 +10,4 @@ lineNos = false
 lineNumbersInTable = false
 noClasses = false
 noHl = false
-style = 'monokailight'
 tabWidth = 4
